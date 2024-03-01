@@ -69,8 +69,12 @@ body {
 	margin-right: -12px;
 	margin-bottom: -12px;
 	margin-left: -12px;
+	padding-top: 2px;
+	padding-left: 0px;
+	padding-right: 43px;
 }
 .tagline{
+	font-size: 30px; 
 	margin-top: -12px;
 	margin-right: -12px;
 	margin-bottom: -12px;
