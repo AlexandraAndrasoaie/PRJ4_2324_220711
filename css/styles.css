@@ -61,9 +61,7 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
-.fst-italic{  font-family: "Sacramento", cursive;
- font-size: 25px;
- color: white}
+
 .text-end{
 	margin-top: -12px;
 	margin-right: -12px;
@@ -74,6 +72,8 @@ body {
 	padding-right: 43px;
 }
 .tagline{
+	font-family: "Sacramento", cursive;
+    color: white;
 	font-size: 30px; 
 	margin-top: -12px;
 	margin-right: -12px;
@@ -93,8 +93,7 @@ body {
 	border-width: 2px;
 	border-spacing: 0px 0px;
 	border-collapse: separate;
-	margin-left: 0px;
-	padding-left: 14px;
+	
 }
 .myotherskills{
 	text-decoration: none;
@@ -104,7 +103,5 @@ body {
 	border-width: 2px;
 	border-spacing: 0px 0px;
 	border-collapse: separate;
-	margin-left: 0px;
-	padding-left: 14px;
 	color: #1E370A;	
 }
