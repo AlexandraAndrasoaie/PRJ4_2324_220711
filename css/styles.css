@@ -62,12 +62,12 @@ body {
 	flex-basis: 1.4em;
 }
 
-.text-end{
+.container{
 	margin-top: -12px;
 	margin-right: -12px;
 	margin-bottom: -12px;
 	margin-left: -12px;
-	
+	text-align: center;
 }
 .tagline{
 	font-family: "Sacramento", cursive;
