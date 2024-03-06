@@ -84,3 +84,27 @@ body {
 	padding-bottom: 9px;
 	padding-left: 9px;
 }
+.myinterestsandhobbies{
+	color: #3A1A70;
+	text-decoration: none;
+	text-align: center;
+	border-style: dotted;
+	border-top-left-radius: 0px;
+	border-width: 2px;
+	border-spacing: 0px 0px;
+	border-collapse: separate;
+	margin-left: 0px;
+	padding-left: 14px;
+}
+.myotherskills{
+	text-decoration: none;
+	text-align: center;
+	border-style: dotted;
+	border-top-left-radius: 0px;
+	border-width: 2px;
+	border-spacing: 0px 0px;
+	border-collapse: separate;
+	margin-left: 0px;
+	padding-left: 14px;
+	color: #1E370A;	
+}
