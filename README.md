@@ -1,3 +1,5 @@
+## Check out my CV live!
+The link to my CV is the following: https://alexandraandrasoaie.github.io/PRJ4_2324_220711/ 
 # prj4-cv
 
 A template to create a CV while learning HTML and CSS
@@ -5,6 +7,7 @@ A template to create a CV while learning HTML and CSS
 ## See it live!
 
 Click on <https://buas-media-interactive.github.io/prj4-cv/> to see what the résumé looks like when published!
+
 
 ## Create your own CV
 
